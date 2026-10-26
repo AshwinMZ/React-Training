@@ -1,0 +1,64 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 17.72,
+      "category": "Self-Help",
+      "description": "A practical guide to building good habits and breaking bad ones through small, consistent changes.",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 14.5,
+      "category": "Fiction",
+      "description": "A shepherd boy travels from Spain to Egypt in search of treasure and discovers his personal legend.",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/9780062315007-L.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 38,
+      "category": "Technology",
+      "description": "A handbook of agile software craftsmanship on writing readable, maintainable code.",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg"
+    },
+    {
+      "id": 4,
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 12.99,
+      "category": "Fiction",
+      "description": "A dystopian novel about surveillance, propaganda and totalitarian control.",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg"
+    },
+    {
+      "id": 5,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "price": 13.99,
+      "category": "Classic",
+      "description": "A story of justice and racial prejudice in the American South, seen through a child's eyes.",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/9780061120084-L.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt, David Thomas",
+      "price": 44.99,
+      "category": "Technology",
+      "description": "Timeless tips and techniques for becoming a more effective software developer.",
+      "available": true,
+      "image": "https://covers.openlibrary.org/b/isbn/9780135957059-L.jpg"
+    }
+  ]
+}
