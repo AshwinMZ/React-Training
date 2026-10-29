@@ -1,0 +1,9 @@
+body { background: #f6f7f9; }
+.product-img { height: 180px; object-fit: cover; background: #e9ecef; }
+.product-card { transition: transform .15s ease; }
+.product-card:hover { transform: translateY(-3px); }
+.cart-thumb { width: 64px; height: 64px; object-fit: cover; background: #e9ecef; }
+@media (min-width: 992px) {
+  .cart-panel { position: sticky; top: 80px; }
+  .cart-items { max-height: 55vh; overflow-y: auto; }
+}
